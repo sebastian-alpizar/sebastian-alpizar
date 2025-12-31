@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# About Me
+# Hi there
 I’m a Full Stack Developer and Mobile Developer passionate about building scalable, efficient, and user-focused applications.  
 I enjoy working across the entire stack from designing clean and intuitive interfaces to developing robust backend systems and mobile solutions.
 
